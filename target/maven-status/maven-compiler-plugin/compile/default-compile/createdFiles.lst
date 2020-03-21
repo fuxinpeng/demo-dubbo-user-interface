@@ -1,0 +1,3 @@
+com\dubbo\test\bean\UserAddress.class
+com\dubbo\test\service\UserService.class
+com\dubbo\test\service\OrderService.class
